@@ -8,7 +8,7 @@ A modern, responsive portfolio website for an aspiring Data Analyst.
 portfolio/
 │
 ├── index.html                  # Main homepage
-├── about.html                  # About page (to be created)
+├── about.html                  # About page
 │
 ├── css/
 │   ├── reset.css              # CSS reset and base styles
@@ -20,14 +20,14 @@ portfolio/
 ├── js/
 │   ├── theme-toggle.js        # Dark/light mode functionality
 │   ├── navigation.js          # Mobile menu & navigation
-│   └── analytics.js           # Google Analytics integration
+│   └── analytics.js       
 │
 ├──assets/
 │  ├── images/
 │      ├── logo/
 │      │   └── PortfolioLogo.png          # Site logo
 │      ├── profile/
-│      │   └── profile-photo.jpg          # Your profile photo
+│      │   └── profile-photo.jpg          # Profile photo
 │      └── designs/
 │          ├── cover-2.webp               # Design showcase images
 │          ├── tall.webp
